@@ -1,0 +1,13 @@
+@import 'blocks/stars.css';
+
+body {
+  margin: 0;
+}
+
+.container {
+  box-sizing: border-box;
+  height: 116px;
+  width: 96px;
+  display: flex;
+  flex-direction: column;
+}
